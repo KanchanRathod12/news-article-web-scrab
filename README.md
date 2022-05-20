@@ -11,3 +11,4 @@ Web scraping is an automatic method to obtain large amounts of data from website
 
 The conclusion of this post is that we can do scraping news with various sources in python quite easily using the newspaper3k package, compared to if we have to spend a long time to write scraping code for each website. By using this package, we can retrieve basic information needed such as authors, publish date, text, and images from a news. There are also methods for getting keywords and summaries of news. And most importantly newspaper3k can be used to do news scraping in various languages.
 
+![Screenshot (346)](https://user-images.githubusercontent.com/100284219/169582724-c9c76a78-b063-4e7c-a53c-23fa77ec190a.png)
